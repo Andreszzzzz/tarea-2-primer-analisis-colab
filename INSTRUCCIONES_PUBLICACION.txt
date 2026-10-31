@@ -1,0 +1,16 @@
+TAREA 2 — INSTRUCCIONES PARA PUBLICAR
+Estudiante: Andres Mauricio Zambrano Londoño
+
+1. Entra a https://colab.research.google.com/
+2. Archivo > Subir cuaderno. Selecciona tarea2-analisis.ipynb.
+3. Entorno de ejecución > Ejecutar todas. Espera a que todas las celdas terminen sin errores.
+4. Revisa la tabla de MAE y escribe la conclusión final con los resultados reales obtenidos.
+5. Pulsa Compartir. Añade alejandro.salgar@gmail.com con permiso Lector.
+6. En Acceso general, elige Cualquiera que tenga el enlace — Lector.
+7. Copia la URL real de Colab.
+8. En el repositorio de grupo de la Evaluación 1, crea la carpeta Tarea 2 si hace falta y sube el notebook .ipynb.
+9. Copia la sección de README_TAREA2.md al README principal del repositorio y reemplaza PEGAR_AQUÍ_LA_URL_REAL_DEL_COLAB.
+10. Haz commit y push al repositorio de grupo correcto.
+
+El notebook descarga el dataset desde UCI; no necesita rutas locales ni subir CSV manualmente.
+La fecha de entrega indicada en la guía es el 14 de octubre de 2026, que ya pasó al día de hoy (31 de octubre de 2026). Confirma si el docente autorizó una extensión.
