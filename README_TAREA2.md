@@ -8,4 +8,9 @@
 
 **[URL de Google Colab:](http://colab.research.google.com/drive/1JMR9B3RKeFg6Z_zmjITEvttj38n0ctTA#scrollTo=dcf0fd9c)**
 
-**Permisos obligatorios:** compartir con `alejandro.salgar@gmail.com` como Lector y configurar “Cualquiera que tenga el enlace” como Lector.
+Este proyecto desarrolla un análisis exploratorio y predictivo
+del conjunto de datos Bike Sharing Dataset.
+
+Se estudian los datos de alquiler diario de bicicletas y se
+construye un modelo de regresión para estimar la cantidad
+de alquileres diarios.
